@@ -12,6 +12,7 @@ public class Calci
 	public static int multiply(int x, int y)
 	{
 		return (x*y);
+		System.out.println("Multiply function changed");
 	}
 	public static int divide(int x, int y)
 	{
