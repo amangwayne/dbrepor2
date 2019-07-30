@@ -37,7 +37,7 @@ public class Calci
 				break;
 			case 4: divide(x,y);
 				break;
-			default: System.out.println("Invalid Choice");
+			default: System.out.println("INVALID CHOICE");
 		}
 	}
 }
